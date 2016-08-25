@@ -1,14 +1,8 @@
 package task7593;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
+
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
-import java.util.stream.Stream;
 
 /**
  * Created by Administrator on 2016/8/25.
